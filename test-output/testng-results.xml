@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-08-09T11:32:02 IST" name="Sdet_Practice" finished-at="2023-08-09T11:34:12 IST" duration-ms="130178">
+    <groups>
+    </groups>
+    <test started-at="2023-08-09T11:32:02 IST" name="Test" finished-at="2023-08-09T11:34:12 IST" duration-ms="130178">
+      <class name="Selenium_Automation.Selenium_Practice.Question3_sdet">
+        <test-method signature="SetUP()[pri:0, instance:Selenium_Automation.Selenium_Practice.Question3_sdet@18df8434]" started-at="2023-08-09T11:34:06 IST" name="SetUP" finished-at="2023-08-09T11:34:12 IST" duration-ms="6347" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SetUP -->
+      </class> <!-- Selenium_Automation.Selenium_Practice.Question3_sdet -->
+      <class name="Selenium_Automation.Selenium_Practice.Question4_sdet">
+        <test-method signature="SetUp()[pri:0, instance:Selenium_Automation.Selenium_Practice.Question4_sdet@534a5a98]" started-at="2023-08-09T11:32:02 IST" name="SetUp" finished-at="2023-08-09T11:34:06 IST" duration-ms="123758" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SetUp -->
+      </class> <!-- Selenium_Automation.Selenium_Practice.Question4_sdet -->
+    </test> <!-- Test -->
+  </suite> <!-- Sdet_Practice -->
+</testng-results>

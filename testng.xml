@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Sdet_Practice">
+  <test thread-count="5" name="Test">
+    <classes>
+      <class name="Selenium_Automation.Selenium_Practice.Question4_sdet"/>
+      <class name="Selenium_Automation.Selenium_Practice.Question3_sdet"/>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Sdet_Practice -->
